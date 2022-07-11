@@ -1,0 +1,216 @@
+*{
+margin: 0;
+padding: 0;
+}
+body{
+background-size: 1500px;
+ background-repeat: no-repeat;
+}
+.sell{
+color: white;
+display: flex;
+margin-left: 370px;
+margin-top: 10px;
+transition: all 0.4s ease;
+}
+.sell:hover{
+color: red;
+}
+.RH{
+margin-left: 10px;
+margin-top: 10px;
+padding: 5px;
+transition: all 0.4s ease;
+}
+.RH:hover{
+background-color: red;
+}
+.belgium{
+background-color: rgba(225, 225, 225, 0.5);
+border-radius: 50px;
+padding: 10px;
+margin-left: 100px;
+max-width: 300px;
+list-style: none;
+transition: all 0.3s ease;
+}
+.belgium:hover{
+background-color: rgba(225, 225, 225, 0.9);
+}
+.text{
+color: black;
+text-decoration: none;
+}
+.book{
+display: flex;
+}
+.england{
+background-color: rgba(225, 225, 225, 0.5);
+border-radius: 50px;
+padding: 10px;
+margin-left: 200px;
+max-width: 220px;
+list-style: none;
+transition: all 0.3s ease;
+}
+.england:hover{
+background-color: rgba(225, 225, 225, 0.9);
+}
+.france{
+background-color: rgba(225, 225, 225, 0.5);
+border-radius: 50px;
+padding: 10px;
+margin-left: 200px;
+max-width: 220px;
+list-style: none;
+transition: all 0.3s ease;
+}
+.france:hover{
+background-color: rgba(225, 225, 225, 0.9);
+}
+.book2{
+display: flex;
+margin-top: 50px;
+}
+.southkorea{
+background-color: rgba(225, 225, 225, 0.5);
+border-radius: 50px;
+padding: 10px;
+margin-left: 100px;
+max-width: 300px;
+list-style: none;
+transition: all 0.3s ease;
+}
+.southkorea:hover{
+background-color: rgba(225, 225, 225, 0.9);
+}
+.spain{
+background-color: rgba(225, 225, 225, 0.5);
+border-radius: 50px;
+padding: 10px;
+margin-left: 180px;
+max-width: 220px;
+list-style: none;
+transition: all 0.3s ease;
+}
+.spain:hover{
+background-color: rgba(225, 225, 225, 0.9);
+}
+
+.japan{
+background-color: rgba(225, 225, 225, 0.5);
+border-radius: 50px;
+padding: 10px;
+margin-left: 210px;
+max-width: 220px;
+list-style: none;
+transition: all 0.3s ease;
+}
+.japan:hover{
+background-color: rgba(225, 225, 225, 0.9);
+}
+.book3{
+display: flex;
+margin-top: 50px;
+}
+.singapore{
+background-color: rgba(225, 225, 225, 0.5);
+border-radius: 50px;
+padding: 10px;
+margin-left: 520px;
+max-width: 250px;
+list-style: none;
+transition: all 0.3s ease;
+}
+.singapore:hover{
+background-color: rgba(225, 225, 225, 0.9);
+}
+.fill{
+background-color: rgba(225, 225, 225, 0.2);
+border-radius: 70px;
+padding-top: 80px;
+padding-bottom: 80px;
+transition: all 5.0s ease;
+}
+.fill:hover{
+background-color: rgba(0, 0, 225, 0.5);
+}
+.omg{
+background-color: rgba(0, 0, 0, 0.7);
+border-radius: 50px;
+padding: 10px;
+}
+.footer{
+ background-color: #24262b;
+ margin-left: -10px;
+ margin-right: -10px;
+padding: 70px 0;
+box-sizing: border-box;
+}
+.row{
+display: flex;
+ flex-wrap: wrap;
+}
+.footer-colum{
+ width: 20%;
+ padding: 0 15px;
+}
+.container{
+max-width: 1170px;
+margin: auto;
+}
+ul{
+ list-style: none;
+}
+h4{
+ margin-left: 40px;
+}
+.social{
+ margin-left: 20px;
+}
+.f{
+ margin-left: 25px;
+}
+.footer-colum h4{
+ font-size: 18px;
+ color: #ffffff;
+ text-transform: capitalize;
+ margin-bottom: 35px;
+ font-family: arial;
+ font-weight: 500;
+position: relative;
+}
+.footer-colum h4::before{
+ content: '';
+ position: absolute;
+ left: 0;
+ bottom: -10px;
+ background-color: #e91e63;
+ height: 2px;
+ box-sizing: border-box;
+width: 50px;
+}
+.footer-colum ul li:not(:last-child){
+ margin-bottom: 10px;
+}
+.footer-colum ul li a{
+font-size: 16px;
+ text-transform: capitalize;
+ color: #ffffff;
+ text-decoration: none;
+ font-weight: 300;
+color: #bbbbbb;
+display: block;
+ transition: all 0.3s ease;
+}
+.footer-colum ul li a:hover{
+ color: #ffffff;
+ padding-left: 7px;
+}
+.social a img{
+ transition: all 0.3s ease;
+}
+.social a img:hover{
+margin-bottom: 10px;
+}
+

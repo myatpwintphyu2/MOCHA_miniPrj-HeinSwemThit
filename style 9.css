@@ -1,0 +1,129 @@
+body{
+	background-color: #8fbf9c;
+}
+h3 {
+	font-size: 25px;
+}
+footer{
+	background-color: #bd9c55;
+	padding: 5px;
+}
+a:link{ 
+		color: #0c0d0d;
+		background-color: transparent;
+		text-decoration: none;
+		font-size: 30px;
+		}
+a:visited{
+		color: #158712;
+		background-color: transparent;
+		text-decoration: none;
+		font-size: 30px;
+		}
+a:active{
+		color: #0c0d0d;
+		background-color: transparent;
+		text-decoration: none;
+		font-size: 30px;
+		}
+a:hover{
+		color: #80312d;
+		background-color: transparent;
+		text-decoration: none;
+		font-size: 30px;
+		}
+.hotel{
+	text-align: center;
+	
+}
+.pr{
+	text-align: left;
+}
+.prwrv{
+	text-align: right;
+}
+.ptr{
+	text-align: left;
+}
+.dr{
+	text-align: right;
+
+}
+
+.hotel2{
+	text-align: center;
+}
+.mainpage{
+	border: 2px dotted black;
+	font-size: 15px;
+	border-radius: 50px;
+	background-color: white;
+	padding: 10px;
+	margin-left: 600px;
+	color: black;
+}
+.mainpage:hover{
+	color: black;
+	background-color: #db6365;
+}
+.bioptg{
+	font-size: 20px;
+	text-align: center;
+	color: #ffffff;
+}
+.color1{
+	background-color: #c9b5c3;
+	padding: 12px;
+
+}
+.intro{
+	text-align: center;
+}
+.intro:hover{
+	border: medium solid #ffffff;
+	transition: 2s;
+}
+.places{
+	background-color: #c2748a;
+	padding: 12px;
+}
+.us:hover{
+	color: #713fab;
+}
+.gbtb:hover{
+	color: #a2b84b;
+}
+.eventsbio{
+	background-color: #bcf2b3;
+	padding: 12px;
+}
+.lv:hover{
+	color: #44874a;
+}
+.bioevents{
+	color: #6764b3;
+	text-align: center;
+	font-size: 20px;
+}
+.hotelbio{
+	background-color:#979bcc;
+	padding: 12px;
+}
+.hr1{
+	border-top: 2px dashed #a7ab6f;
+}
+.hr2{
+	border-top: 2px dotted #1f1769;
+}
+.hr4{
+	border-top: 2px dotted #858a30;
+}
+.social a img{
+    transition: all 0.3s ease;
+}
+.social a img:hover{
+    margin-bottom: 10px;
+}
+.social{
+    margin-left: 20px;
+}

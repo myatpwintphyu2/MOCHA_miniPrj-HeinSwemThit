@@ -1,0 +1,154 @@
+body, html{
+	background-color: #f1f5b3;
+}
+h3 {
+	font-size: 25px;
+}
+footer{
+	background-color: #d3d6db;
+	padding: 5px;
+}
+a:link{ 
+		color: #0c0d0d;
+		background-color: transparent;
+		text-decoration: none;
+		font-size: 30px;
+		}
+a:visited{
+		color: #158712;
+		background-color: transparent;
+		text-decoration: none;
+		font-size: 30px;
+		}
+a:active{
+		color: #0c0d0d;
+		background-color: transparent;
+		text-decoration: none;
+		font-size: 30px;
+		}
+a:hover{
+		color: #80312d;
+		background-color: transparent;
+		text-decoration: none;
+		font-size: 30px;
+		}
+.blue{
+	background-color: #cbdcf7;
+	padding: 12px;
+}
+.seoul{
+	text-align: center;
+}
+.places{
+	background-color: #edcacb;
+	padding: 12px;
+
+}
+.hotelbg{
+	background-color: #cffae7;
+	padding: 12px;
+}
+.ggp:hover{
+	color: #734c52;
+}
+.hotel{
+	text-align: center;
+	
+}
+.rs{
+	text-align: left;
+}
+.ds{
+	text-align: right;
+}
+.dr{
+	text-align: left;
+}
+.sr{
+	text-align: right;
+
+}
+.hotel2{
+	text-align: center;
+}
+.maintower{
+	text-align: center;
+}
+.etower{
+	text-align: center;
+}
+.gd{
+	text-align: left;
+}
+.pr{
+	text-align: right;
+}
+.js{
+	text-align: left;
+}
+.dsr{
+	text-align: right;
+}
+.rsr{
+	text-align: left;
+}
+.intro{
+	text-align: center;
+}
+.intro:hover{
+	border: medium solid darkgoldenrod;
+	transition: 2s;
+}
+.cdg:hover{
+	color: #f279da;
+}
+.cdgoh:hover{
+	color: #6f4e8a;
+}
+.bioptg{
+	font-size: 20px;
+	text-align: center;
+	color:#2f521c;
+}
+.bioevents{
+	font-size: 20px;
+	text-align: center;
+	color: #9c6a14;
+}
+.hr1{
+	border-top: 2px dashed #a7ab6f;
+}
+.hr2{
+	border-top: 2px dotted #1f1769;
+}
+.hr4{
+	border-top: 2px dotted #858a30;
+}
+.hbcf:hover{
+	color: #046c6e;
+}
+.sff:hover{
+	color: #853203;
+}
+.mainpage{
+	border: 2px dotted black;
+	font-size: 15px;
+	border-radius: 50px;
+	background-color: white;
+	padding: 10px;
+	margin-left: 600px;
+	color: black;
+}
+.mainpage:hover{
+	color: black;
+	background-color: #db6365;
+}
+.social a img{
+    transition: all 0.3s ease;
+}
+.social a img:hover{
+    margin-bottom: 10px;
+}
+.social{
+    margin-left: 20px;
+}
